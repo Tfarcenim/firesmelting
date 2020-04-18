@@ -1,0 +1,7 @@
+{
+  "type": "firesmelting:fire_smelting",
+  "ingredient": {
+    "item": "minecraft:dirt"
+  },
+  "result": "minecraft:diamond"
+}
